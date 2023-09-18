@@ -2,11 +2,6 @@
 title: "VEX INFO"
 date: 2023-09-18T07:44:00+07:00
 authors: ['Resna F']
-=======
-title: "About me"
-date: 2023-09-18T07:44:00+07:00
-authors: ['Resna Febrianto']
->>>>>>> 85d19d032868793987b44a2e4ed7caf9a22a5108
 draft: false
 math: true
 url: "0048"
