@@ -1,16 +1,24 @@
 ---
+title: "VEX INFO"
+date: 2023-09-18T07:44:00+07:00
+authors: ['Resna F']
+=======
 title: "About me"
 date: 2023-09-18T07:44:00+07:00
 authors: ['Resna Febrianto']
+>>>>>>> 85d19d032868793987b44a2e4ed7caf9a22a5108
 draft: false
 math: true
 url: "0048"
 ---
-{{< toc >}}
 
-<p>**Any information around me and my campus**.</p>
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GDHyFN88s4MOl9TSPBkU4KhOSRj5pchcvA&usqp=CAU) 
 
-##table 
+Our Motto :
+> Setia Loyal Solid Semangat !!!
+
+
+## Schedule 
 Nomor | Tanggal | Kegiatan | Info
 :-: | :- | -: | :-:
 1 | 22 Jun | Latihan Kopassus | -
@@ -19,41 +27,23 @@ Nomor | Tanggal | Kegiatan | Info
 4 | 31 Aug | SEMPRO | -
 5 | 2 Sep | Skripsian |
 
-##link
+## Linked Account
 + [Google](https://www.google.com/)
 + [Github](https://github.com)
 
-##Social Media
+## Social Media
 + [Instagram](https://www.instagram.com/)
 + [Facebook](https://www.facebook.com/)
 
-##Prodi di kampus
+## Social Media
++ [Instagram](https://www.instagram.com/)
++ [Facebook](https://www.facebook.com/)
+
+## Prodi di kampus
 * Analyst
 * Ekonomi
 * Cyber
 * Teknologi
-![unbraw](C:\Users\USER\Downloads\1200px-Logo_Universitas_Brawijaya.svg.png)
 
-
-
-## equation
-
-
-$$
-\mathbf{m} =
-\left[
-\begin{matrix}
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & y^2 & z & x \newline
-\end{matrix}
-\right]
-$$
-
-$$
-x_{1,2} = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
-$$
-
-$$\tag{23}
-y = ax^2 + bx +c
-$$
+Rumus Harian : 
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
