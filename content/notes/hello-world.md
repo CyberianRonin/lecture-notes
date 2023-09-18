@@ -12,7 +12,7 @@ url: "0048"
 Our Motto :
 > Setia Loyal Solid Semangat !!!
 
-[![Selayang Pandang STIN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fparboaboa.com%2Fsekolah-tinggi-intelijen-negara&psig=AOvVaw3ncedC4dBFT5j3vjirVNzc&ust=1695113419036000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDD4Nnjs4EDFQAAAAAdAAAAABAE)](https://youtu.be/npr6hITUklw?si=-m4uNa6Q3_ptrvo2)
+{{< youtube npr6hITUklw >}}
 
 
 ## Schedule 
