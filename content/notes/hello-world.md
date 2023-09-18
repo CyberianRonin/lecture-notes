@@ -1,13 +1,14 @@
 ---
-title: "hello world"
+title: "About me"
 date: 2023-09-18T07:44:00+07:00
 authors: ['Resna Febrianto']
-tags: ['xx1000']
 draft: false
 math: true
 url: "0048"
 ---
 {{< toc >}}
+
+<p>**Any information around me and my campus**.</p>
 
 ##table 
 Nomor | Tanggal | Kegiatan | Info
@@ -25,6 +26,14 @@ Nomor | Tanggal | Kegiatan | Info
 ##Social Media
 + [Instagram](https://www.instagram.com/)
 + [Facebook](https://www.facebook.com/)
+
+##Prodi di kampus
+* Analyst
+* Ekonomi
+* Cyber
+* Teknologi
+![unbraw](C:\Users\USER\Downloads\1200px-Logo_Universitas_Brawijaya.svg.png)
+
 
 
 ## equation
