@@ -1,5 +1,5 @@
 ---
-title: "VEX INFO"
+title: "VEX INFORMATION"
 date: 2023-09-18T07:44:00+07:00
 authors: ['Resna F']
 draft: false
