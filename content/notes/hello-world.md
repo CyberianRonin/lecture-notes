@@ -12,6 +12,8 @@ url: "0048"
 Our Motto :
 > Setia Loyal Solid Semangat !!!
 
+[![Selayang Pandang STIN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fparboaboa.com%2Fsekolah-tinggi-intelijen-negara&psig=AOvVaw3ncedC4dBFT5j3vjirVNzc&ust=1695113419036000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDD4Nnjs4EDFQAAAAAdAAAAABAE)](https://youtu.be/npr6hITUklw?si=-m4uNa6Q3_ptrvo2)
+
 
 ## Schedule 
 Nomor | Tanggal | Kegiatan | Info
@@ -22,6 +24,16 @@ Nomor | Tanggal | Kegiatan | Info
 4 | 31 Aug | SEMPRO | -
 5 | 2 Sep | Skripsian |
 
+# Presiden :
+**Joko Widodo**
+
+## Kepala BIN :
+_Jenderal Polisi (Purn.) Budi Gunawan_
+
+### Wakil Kepala BIN :
+_Letnan Jenderal TNI (Purn.) Teddy Lhaksmana Widya Kusuma_
+
+
 ## Linked Account
 + [Google](https://www.google.com/)
 + [Github](https://github.com)
@@ -30,11 +42,8 @@ Nomor | Tanggal | Kegiatan | Info
 + [Instagram](https://www.instagram.com/)
 + [Facebook](https://www.facebook.com/)
 
-## Social Media
-+ [Instagram](https://www.instagram.com/)
-+ [Facebook](https://www.facebook.com/)
-
 ## Prodi di kampus
+* Field Agent
 * Analyst
 * Ekonomi
 * Cyber
@@ -42,3 +51,56 @@ Nomor | Tanggal | Kegiatan | Info
 
 Rumus Harian : 
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+
+
+
+{{< chart 90 200 >}}
+{
+    type: 'bar',
+    data: {
+        labels: ['Afrika', 'Amerika', 'Rusia', 'China', 'Jepang', 'Singapura'],
+        datasets: [{
+            label: 'Tingkat Ekonomi Dunia',
+            data: [12, 19, 18, 16, 13, 14],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        maintainAspectRatio: false,
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
+                }
+            }]
+        }
+    }
+}
+{{< /chart >}}
+
+{{< mermaid >}}
+flowchart LR
+  B--> I & P --> O & E
+  B(("<b>Presiden</b>"))
+  I[/"Kabin"/]
+  P[/"Wakabin"/]
+  O[/"Sestama"/]
+  E[/"Irtama"/]
+{{< /mermaid >}}
