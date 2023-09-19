@@ -103,3 +103,17 @@ flowchart LR
   O[/"Pedagang Mikro"/]
   E[/"PKL"/]
 {{< /mermaid >}}
+
+
+## Animation
+{{< html >}}
+<svg style="background: #eee;">
+  <rect x="0" y="50" width="50" height="50">
+    <animate
+      attributeName="x"
+      from="0" to="300"
+      begin="0s" dur="2s"
+      repeatCount="indefinite" />
+  </rect>
+</svg>
+{{< /html >}}
