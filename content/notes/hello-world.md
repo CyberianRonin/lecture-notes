@@ -1,5 +1,5 @@
 ---
-title: "VEX INFORMATION"
+title: "RESFA FOOD BLOG"
 date: 2023-09-18T07:44:00+07:00
 authors: ['Resna F']
 draft: false
@@ -7,31 +7,30 @@ math: true
 url: "0048"
 ---
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GDHyFN88s4MOl9TSPBkU4KhOSRj5pchcvA&usqp=CAU) 
+![](https://blogger.googleusercontent.com/img/a/AVvXsEhztYJiLnF4Q54f5RVMG_7TKl1ctWSwM3_lBmKSl9yZ4eB_vT16rmeBsayUUzi1c0EuYgs7Kl3Eom6JwOeyC-TvqarNGQ3jy9axS-TrLO3dIlo3WRV8PhywHCVnyCRdCdaHMGquSUilrtUYp3Yzw48nOLjMdKgEi3k3qio3ubuqj1ic_r2bLc4GIbUq=s300)
 
 Our Motto :
-> Setia Loyal Solid Semangat !!!
+> Makan Enak Hidup Enak!!!
 
-{{< youtube npr6hITUklw >}}
+{{< youtube YJjy5yQ4AIA >}}
 
 
 ## Schedule 
 Nomor | Tanggal | Kegiatan | Info
 :-: | :- | -: | :-:
-1 | 22 Jun | Latihan Kopassus | -
-2 | 15 Jul | PKL | -
-3 | 16 Aug | KKN | -
-4 | 31 Aug | SEMPRO | -
-5 | 2 Sep | Skripsian |
+1 | 22 Jun | Gathering di Resto | -
+2 | 15 Jul | Food Vlogging di Bandung | -
+3 | 16 Aug | Food Review di Garut | -
+4 | 31 Aug | Jalan Kuliner Jogja | -
 
-# Presiden :
-**Joko Widodo**
+# Top Indonesian Food :
+**Rendang**
 
-## Kepala BIN :
-_Jenderal Polisi (Purn.) Budi Gunawan_
+## Top Food Vlogger :
+_More Best Ever Food Review Show_
 
-### Wakil Kepala BIN :
-_Letnan Jenderal TNI (Purn.) Teddy Lhaksmana Widya Kusuma_
+### Best Mukbang Channel :
+_Tanboy Kun_
 
 
 ## Linked Account
@@ -42,12 +41,12 @@ _Letnan Jenderal TNI (Purn.) Teddy Lhaksmana Widya Kusuma_
 + [Instagram](https://www.instagram.com/)
 + [Facebook](https://www.facebook.com/)
 
-## Prodi di kampus
-* Field Agent
-* Analyst
-* Ekonomi
-* Cyber
-* Teknologi
+## Best Restaurant In Bogor
+* Warung mang adeng
+* Warpat
+* Sumber Alam
+* Warteg Sari Asih
+
 
 Rumus Harian : 
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
@@ -61,7 +60,7 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
     data: {
         labels: ['Afrika', 'Amerika', 'Rusia', 'China', 'Jepang', 'Singapura'],
         datasets: [{
-            label: 'Tingkat Ekonomi Dunia',
+            label: 'Tingkat Ekspor Rempah',
             data: [12, 19, 18, 16, 13, 14],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
@@ -98,9 +97,9 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 {{< mermaid >}}
 flowchart LR
   B--> I & P --> O & E
-  B(("<b>Presiden</b>"))
-  I[/"Kabin"/]
-  P[/"Wakabin"/]
-  O[/"Sestama"/]
-  E[/"Irtama"/]
+  B(("<b>Kementerian Koordinator Bidang Perekonomian Republik Indonesia</b>"))
+  I[/"Staf Kementrian Perekonomian"/]
+  P[/"Distributor/Pengusaha"/]
+  O[/"Pedagang Mikro"/]
+  E[/"PKL"/]
 {{< /mermaid >}}
